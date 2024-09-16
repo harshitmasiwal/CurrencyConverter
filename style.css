@@ -46,6 +46,7 @@ form input{
     justify-content: space-evenly ;
     align-items: center;
     margin-top: 2rem;
+    color: black;
 }
 
 .selector img{
@@ -60,6 +61,7 @@ form input{
     background-color: white;
     border-radius: .5rem;
     padding: .5rem;
+    font-size: 1rem;
 }
 
 .dropdown i{
@@ -83,5 +85,9 @@ form input{
     border: 2px solid green;
     background-color: rgb(10, 158, 10);
     color: white;
+}
+
+select{
+    background-color: white;
 }
 
